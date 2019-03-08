@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="my_debug_images"
+        path="Android/data/my.com.myeg.ipayeasy.debug/files/Pictures" />
+    <external-path
+        name="my_uat_images"
+        path="Android/data/my.com.myeg.ipayeasy.uat/files/Pictures" />
+    <external-path
+        name="my_release_images"
+        path="Android/data/my.com.myeg.ipayeasy/files/Pictures" />
+    <files-path
+        name="my_internal_images"
+        path="/" />
+    <cache-path
+        name="my_cache_images"
+        path="/" />
+</paths>
